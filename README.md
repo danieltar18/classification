@@ -26,6 +26,6 @@ This portfolio is licensed under the [MIT License](LICENSE), which allows for th
 
 ## Contact
 
-If you have any questions or just want to connect, feel free to reach out via email at [tardani99@gmail.com](mailto:tardani99@gmail.com) or through [LinkedIn]([https://www.linkedin.com/in/your_profile/](https://www.linkedin.com/in/danieltar18/)).
+If you have any questions or just want to connect, feel free to reach out via email at [tardani99@gmail.com](mailto:tardani99@gmail.com) or through [LinkedIn]([https://www.linkedin.com/in/your_profile/](https://www.linkedin.com/in/danieltar18/).
 
 Thank you for visiting my Classification Portfolio!
