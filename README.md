@@ -3,10 +3,14 @@
 Welcome to my Classification Portfolio! This repository showcases a collection of classification projects that demonstrate my skills in machine learning classification techniques. Whether you're a fellow enthusiast, potential collaborator, or prospective employer, I hope you find these projects insightful and engaging.
 
 ## Projects
+
+### 1. Credit Card Fraud Detection
+
 <!--
-### 1. Spam Email Detection
+
 - **Description**: Implemented a spam email detection system using a combination of Naive Bayes and Support Vector Machine (SVM) algorithms. Achieved an accuracy of 95% on a benchmark dataset.
-- **Technologies**: Python, scikit-learn, Natural Language Processing (NLP)
+- **Technologies**: Python, scikit-learn
+- **Link**: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ### 2. Customer Churn Prediction
 - **Description**: Developed a predictive model to identify customers likely to churn from a telecom company. Explored various classification algorithms including Logistic Regression, Decision Trees, and Random Forests to achieve the best performance.
